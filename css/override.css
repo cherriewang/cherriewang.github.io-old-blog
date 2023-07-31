@@ -1,28 +1,12 @@
-:root {
-    --body-font:{text:Body Font},sans-serif;
-    --body-size:{text:Font Size};
-    --line-hgt:{text:Line Height};
-    --post-size:{text:Post Size};
-    --gap-size:{text:Photoset Gap};
-    --accent:{color:Accent};
-    --accent-text:{color:Accent Text};
-    --rgb-accent-text:{RGBcolor:Accent Text};
-    --links:{color:Links};
-    --links-hover:{color:Links Hover};
-    --like-btn:{color:Like Button};
-    --selection-bg:{color:Selection Background};
-    --selection:{color:Selection};
-    --tooltips:{color:Tooltips};
-    --tooltips-text:{color:Tooltips Text};
-    --mobile-side:{color:Mobile Sidebar};
-    --NPF-Caption-Spacing:1em;
-    --NPF-Image-Spacing:{text:Photoset Gap};
-}
-
-
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
+}
+
+body{
+    color: #FFFFFF;
+    background-color: #15161a;
+
 }
 
 /* Post navigation links */
