@@ -20,6 +20,7 @@ instagram_username: vusniere
 #########################################################################################
 theme: "minima"
 
+show_excerpts: true
 rss: rss
 
 kramdown:
@@ -29,6 +30,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
 
 titles_from_headings:
   strip_title: true
