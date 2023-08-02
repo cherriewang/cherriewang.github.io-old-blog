@@ -1,7 +1,9 @@
-## Brother Bear
+## Brother Bear 
 
-Some studies from Brother Bear and also John Nevarez. Stylistically, Brother Bear leans pretty heavily into realism. Thus I can understand why audience reception of the film noted that the animation was "weak"— it doesn't push the medium and feel snappy in the way that great animation _can_ feel. It is, however, nice to take a look at how they drew bears 2D. 
----
+Some studies from Brother Bear and also John Nevarez. Stylistically, Brother Bear leans pretty heavily into realism.
+Thus I can understand why audience reception of the film noted that the animation was "weak"— it doesn't push the medium and feel snappy in the way that great animation _can_ feel. It is, however, nice to take a look at how they drew bears 2D.
+
+<!--more-->
 
 I spent the most time just focusing on the face today. Basically, I try to break it down into the simplest shapes and put them together like puzzle pieces. So far what I have is a sphere/circle to ground the skull to start. Then build a snout on top of that, and lastly add in volume from behind and around to bulk it up. 
 
